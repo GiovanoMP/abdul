@@ -7,7 +7,7 @@ st.title('INTERPOL - ALERTA INTERNACIONAL')
 st.markdown('<h2 style="color: red;">Procurado por crimes em múltiplas jurisdições</h2>', unsafe_allow_html=True)
 
 # Exibir a imagem centralizada
-st.image('images/procurado.png', use_column_width=True)
+st.image('images/procurado.png', use_container_width=True)
 
 # Informações sobre o procurado
 st.markdown('<h1 style="color: red;">Nome: Abdul Al-Gaúcho Bin Chimarrão</h1>', unsafe_allow_html=True)
