@@ -1,6 +1,6 @@
 import streamlit as st
 
-# Título da aplicação
+
 st.title('INTERPOL - ALERTA INTERNACIONAL')
 
 # Texto procurado em vermelho
