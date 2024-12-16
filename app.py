@@ -14,11 +14,13 @@ st.markdown('<h1 style="color: red;">Nome: Abdul Al-Gaúcho Bin Chimarrão</h1>'
 st.write('Nacionalidade: Saudita')
 
 st.markdown('<h3 style="color: red;">Crimes atribuídos:</h3>', unsafe_allow_html=True)
-st.markdown('- Contrabando internacional de erva-mate em caravanas de camelos.\n- Introdução ilegal de churrasco gaúcho no mercado saudita, causando colapso no setor de kebabs.\n- Participação em corridas clandestinas de camelos enquanto usava bombacha.\n- Uso indevido de turbante para esconder pacotes de costela premium.', unsafe_allow_html=True)
+st.markdown('- Contrabando internacional de erva-mate em caravanas de camelos.\n- Introdução ilegal de churrasco gaúcho no mercado saudita, causando colapso no setor de kebabs.\n- Participação em corridas clandestinas de camelos enquanto usava bombacha e boina.\n- Uso indevido de turbante para esconder pacotes de costela premium.', unsafe_allow_html=True)
 
 st.write('Fontes confiáveis indicam que Abdul fugiu para o Brasil e foi avistado nas redondezas de Porto Alegre.')
 
 st.markdown('<h3 style="color: red;">Recompensa:</h3>', unsafe_allow_html=True)
 st.write('Qualquer informação que leve à captura de Abdul será recompensada com 10 kg de costela premium e 1 barril de petróleo.')
+
+
 
 st.write('Mais informações no site da [Interpol](https://www.interpol.int)')
