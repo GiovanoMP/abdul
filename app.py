@@ -20,3 +20,5 @@ st.write('Fontes confiáveis indicam que Abdul fugiu para o Brasil e foi avistad
 
 st.markdown('<h3 style="color: red;">Recompensa:</h3>', unsafe_allow_html=True)
 st.write('Qualquer informação que leve à captura de Abdul será recompensada com 10 kg de costela premium e 1 barril de petróleo.')
+
+st.write('Mais informações no site da [Interpol](https://www.interpol.int)')
